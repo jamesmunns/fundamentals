@@ -13,7 +13,7 @@ This book is broken into the following sections:
 
 Each section will contain (at least) the following information:
 
-# **WHAT** is this thing?
+* **WHAT** is this thing?
 * **WHY** each of these things are important
 * **HOW MUCH** of each of these items are necessary for your project(s)
 * **HOW** to do each of these items with open source and/or free tools
